@@ -1,1 +1,6 @@
-include: package:flutter_lints/flutter.yaml
+include: package:fabulous_core/linter_core.yaml
+
+analyzer:
+  exclude: ["**/*.g.dart", "bricks/**"]
+  plugins:
+    - custom_lint
