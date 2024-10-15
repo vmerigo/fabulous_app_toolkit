@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: fabulous_core
+dependency_overrides:
+  fabulous_core:
+    path: packages/core/fabulous_core

@@ -1,3 +1,5 @@
 import 'package:fabulous_core/fabulous_core.dart';
 
-final modules = <FabulousModule>[];
+import 'config/environment_config.dart';
+
+final appModules = <FabulousModule<EnvironmentConfig>>[];
