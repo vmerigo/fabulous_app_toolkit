@@ -1,0 +1,1 @@
+library fabulous_analytics;
